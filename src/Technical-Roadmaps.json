@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "skill": "Front-end",
+      "roadmap":[" HTML"," CSS"," Java Script", " Bootstrap"," React js"]
+    },
+    {
+      "id": 2,
+      "skill": "Back-end",
+      "roadmap":["JavaScript","Nodejs"]
+    },
+    {
+      "id": 3,
+      "skill": "Android",
+      "roadmap":["XML","Java","Database"]
+    },
+    {
+      "id": 4,
+      "skill": "problem solving",
+      "roadmap":[]
+    },
+    {
+      "id": 5,
+      "skill": "storytelling",
+      "roadmap":["skill1","skill2"]
+    },
+    {
+      "id": 6,
+      "skill": "communication",
+      "roadmap":["skill3","skill4","skill5"]
+    },
+    {
+      "id": 7,
+      "skill": "cooperation",
+      "roadmap":["skill6","skill7"]
+    },
+    {
+      "id": 8,
+      "skill": "adaptability",
+      "roadmap":["skill8","skill9"]
+    },
+    {
+      "id": 9,
+      "skill": "organization",
+      "roadmap":["skill100","skill101"]
+    },
+    {
+      "id": 10,
+      "skill": "collaboration",
+      "roadmap":["skill102","skill103"]
+    },
+    {
+      "id": 11,
+      "skill": "emotional intelligence",
+      "roadmap":["skill104","skill105"]
+    }
+  ]
